@@ -18,7 +18,8 @@
      tomcat
           |----- Dockerfile
           |----- default_master.properties
-          |----- apache-tomcat-8.5.35.tar.qz ```
+          |----- apache-tomcat-8.5.35.tar.qz
+```
 
     3. create  images and run containers
 
@@ -42,6 +43,8 @@
     $ postgres#/ drop DATABASE jasperserver;
     £ postgres#/ \q
 
-    $ docker run -it --rm -p 8090:8080  js```
+    $ docker run -it --rm -p 8090:8080  js
+
+    ```
 
     4. go  to  http://localhost:8090/jasperserver-pro/login.html .
