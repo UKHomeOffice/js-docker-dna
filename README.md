@@ -18,9 +18,7 @@
      tomcat
           |----- Dockerfile
           |----- default_master.properties
-          |----- apache-tomcat-8.5.35.tar.qz
-
- ```
+          |----- apache-tomcat-8.5.35.tar.qz ```
 
     3. create  images and run containers
 
