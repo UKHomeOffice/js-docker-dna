@@ -42,9 +42,6 @@
     $ postgres#/ drop DATABASE jasperserver;
     £ postgres#/ \q
 
-    $ docker run -it --rm -p 8090:8080  js
-
-
-    ```
+    $ docker run -it --rm -p 8090:8080  js```
 
     4. go  to  http://localhost:8090/jasperserver-pro/login.html .
