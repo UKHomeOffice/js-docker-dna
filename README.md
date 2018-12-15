@@ -24,7 +24,7 @@
     3. create  images and run containers
 
 
-  ```
+```
 
     $ docker stop $(docker ps -a -q)
     $ docker rm $(docker ps -a -q)
@@ -45,6 +45,6 @@
 
     $ docker run -it --rm -p 8090:8080  js
 
-    ```
+  ```
 
     4. go  to  http://localhost:8090/jasperserver-pro/login.html .
