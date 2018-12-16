@@ -2,7 +2,7 @@
 
 
 
-<img src="s.png" alt="Smiley face" height="500" width="700">
+<img src="s.png" alt="Smiley face" height="500" width="900">
 
 
 <a href="https://asciinema.org/a/nUTiPLQ4lgsM83seIX6x7Q5Ax" target="_blank"><img src="https://asciinema.org/a/nUTiPLQ4lgsM83seIX6x7Q5Ax.svg" /></a>
