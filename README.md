@@ -2,21 +2,31 @@
 
 
 
-<img src="s.png" alt="Smiley face" height="500" width="900">
+<img src="s.png" alt="Smiley face" height="250" width="900">
 
     diagram 1: Jasper Report Server landing page.
 
 |
-<a href="https://asciinema.org/a/nUTiPLQ4lgsM83seIX6x7Q5Ax" target="_blank"><img src="https://asciinema.org/a/nUTiPLQ4lgsM83seIX6x7Q5Ax.svg" /></a>
 
-diagram 2: the build and deploy activities
+<img src="https://asciinema.org/a/nUTiPLQ4lgsM83seIX6x7Q5Ax.svg" alt="Smiley face" height="250" width="900">  
+
+    diagram 2: the build and deploy activities 
 
 
 ### What is this?
 
     This repo creates a jasper report server docker image
 
+
+
 ###  How to use?
+
+    you have two options depending on your preference.
+
+    - you can run the utilities script to automate the build and deployment.
+    WARNING : the script deletes a folder named ${HOME}/tmp-js-docker-dna. it also removes all containers (running or not) and all images.
+
+    - alternatively, you can do it manually by as detailed on steps 1 to 5 below.
 
     1. clone
 
