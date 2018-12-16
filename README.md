@@ -4,6 +4,7 @@
 
 [![asciicast](https://asciinema.org/a/170142.png)](https://asciinema.org/a/nUTiPLQ4lgsM83seIX6x7Q5Ax)
 
+<a href="https://asciinema.org/a/nUTiPLQ4lgsM83seIX6x7Q5Ax" target="_blank"><img src="https://asciinema.org/a/nUTiPLQ4lgsM83seIX6x7Q5Ax.svg" /></a>
 
 ### What is this?
 
