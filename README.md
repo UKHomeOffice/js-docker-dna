@@ -2,7 +2,7 @@
 
 
 
-<img src="s.png" alt="Smiley face" height="500" width="700">
+<img src="s.png" alt="Smiley face" height="500" width="900">
 
     diagram 1: Jasper Report Server landing page.
 
