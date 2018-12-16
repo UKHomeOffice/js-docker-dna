@@ -8,9 +8,9 @@
 
 |
 
-<img src="https://asciinema.org/a/nUTiPLQ4lgsM83seIX6x7Q5Ax.svg" alt="Smiley face" height="250" width="900">  
+<a href="https://asciinema.org/a/nUTiPLQ4lgsM83seIX6x7Q5Ax" target="_blank"><img height="250" width="900" src="https://asciinema.org/a/nUTiPLQ4lgsM83seIX6x7Q5Ax.svg" /></a>
 
-    diagram 2: the build and deploy activities 
+    diagram 2: the build and deploy activities
 
 
 ### What is this?
