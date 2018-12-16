@@ -1,8 +1,9 @@
 
 
-<img src="s.png" alt="Smiley face" height="300" width="500">
 
-[![asciicast](https://asciinema.org/a/170142.png)](https://asciinema.org/a/nUTiPLQ4lgsM83seIX6x7Q5Ax)
+
+<img src="s.png" alt="Smiley face" height="500" width="700">
+
 
 <a href="https://asciinema.org/a/nUTiPLQ4lgsM83seIX6x7Q5Ax" target="_blank"><img src="https://asciinema.org/a/nUTiPLQ4lgsM83seIX6x7Q5Ax.svg" /></a>
 
