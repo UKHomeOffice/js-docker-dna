@@ -1,4 +1,10 @@
 
+
+<img src="s.png" alt="Smiley face" height="300" width="500">
+
+[![asciicast](https://asciinema.org/a/170142.png)](https://asciinema.org/a/nUTiPLQ4lgsM83seIX6x7Q5Ax)
+
+
 ### What is this?
 
     This repo creates a jasper report server docker image
